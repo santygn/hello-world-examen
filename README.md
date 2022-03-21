@@ -1,6 +1,6 @@
 # hello-world-examen
 ***
-##Información personal
+## Información personal
 ***
 ### Nombre: *Santiago*
 ### Apellidos: *Guillén Nazareno*
@@ -8,7 +8,7 @@
 ### Curso: *1ro de DAM*
 ### Centro: *EDIB*
 ***
-##Pasos del proceso
+## Pasos del proceso
 ***
 1. Para comenzar con el proceso hemos de crear un repositorio en Github cuyo nombre sea *hello-world-exmaen*. Este repositorio ha de ser público y debe contener un README.md como se muestra en la imagen siguiente:
   ![create repository](https://github.com/santygn/hello-world-examen/blob/095fcebf8abb3759b9c1d68e8e0c6f5ba4545404/multimedia_hello-world/1.png)
